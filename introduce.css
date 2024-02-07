@@ -43,10 +43,6 @@ a:hover {
 }
 
 .single-border{
-    margin-bottom: 0.2rem;
-    padding: 0.3rem;
-    border-left: 10px solid;
-    color: #333;
-    font-weight: bold;
-    font-size: 26px
+    padding-left: 10px;
+    border-left: solid 5px #007bff;
 }
