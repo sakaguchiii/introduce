@@ -42,7 +42,12 @@ a:hover {
     text-decoration: underline;
 }
 
-.single-border{
+.single-border1{
+    padding-left: 10px;
+    border-left: solid 5px #007bff;
+}
+
+.single-border2{
     padding-left: 10px;
     border-left: solid 5px #007bff;
 }
